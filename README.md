@@ -11,3 +11,5 @@ Tutorial and How to craw comments from Facebook with Scrapy
 - 21h ngày 02/05
   - Soạn slide và hoàn thành project
 - 12/05 nộp project trên moodle.
+
+--Toan-test
